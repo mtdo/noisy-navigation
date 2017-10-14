@@ -75,8 +75,7 @@ $ python3 main.py -p
 
 ## References
 
-* [Decision-Theoretic Planning: Structural Assumptions and Computational Leverage]
-[decision-theoretic-planning],  
+* [Decision-Theoretic Planning: Structural Assumptions and Computational Leverage][decision-theoretic-planning],  
 Boutilier C., Dean T. and Hanks S., Journal of Artificial Intelligence Research, 1999, vol. 11
 
 * [Learning from Delayed Rewards][q-learning],
