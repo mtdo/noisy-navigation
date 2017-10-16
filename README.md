@@ -78,7 +78,7 @@ $ python3 main.py -p
 * [Decision-Theoretic Planning: Structural Assumptions and Computational Leverage][decision-theoretic-planning],  
 Boutilier C., Dean T. and Hanks S., Journal of Artificial Intelligence Research, 1999, vol. 11
 
-* [Learning from Delayed Rewards][q-learning],
+* [Learning from Delayed Rewards][q-learning],  
 Watkins, C. J. C. H., Ph.D. Thesis, Cambridge University, 1989
 
 
@@ -86,7 +86,8 @@ Watkins, C. J. C. H., Ph.D. Thesis, Cambridge University, 1989
 Kuleshov, V. and Precup, D.,
 Journal of Machine Learning Research, 2000, vol. 1
 
-* [CE-E4800 Artificial Intelligence][aalto-course], Aalto University
+* [CE-E4800 Artificial Intelligence][aalto-course],  
+Aalto University
 
 
 
